@@ -146,7 +146,7 @@ header {
 .card p {
     font-size: 2rem;
     line-height: 3rem;
-
+    white-space:nowrap;
     margin-top: 1rem;
 }
 
